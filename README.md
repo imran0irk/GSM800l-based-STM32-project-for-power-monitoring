@@ -2,7 +2,10 @@
 
 An automated, GSM-based agricultural pump controller built on the STM32F103C8T6 (Blue Pill / custom board) and SIM800L module. The system detects mains AC line presence, controls a pump relay via authorized missed calls and SMS commands, and sends immediate alert notifications during power outages and restorations. It features an onboard hardware button to dynamically register an administrator phone number through an incoming call.
 
----
+---<img width="2799" height="2421" alt="924be7ec361d73a4487841c082da2465" src="https://github.com/user-attachments/assets/087fb167-40a6-429c-8edc-c1661bf2a345" />
+<img width="660" height="713" alt="f209e19e-16fe-4845-ba2e-c18a34bb8bfb" src="https://github.com/user-attachments/assets/63d80cc8-55a8-462d-8b05-8328c53bb646" />
+
+
 
 ## Features
 
